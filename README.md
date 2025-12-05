@@ -1,3 +1,3 @@
 # Examples
 Example cases
-This is completely my excersise session 
+This is completely my excercise session 
